@@ -1,0 +1,4 @@
+CREATE TABLE StarBucks (ID AUTOINCREMENT PRIMARY KEY,
+product_name TEXT (255),
+stocks INT,
+remaining_stocks)
