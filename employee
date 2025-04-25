@@ -1,0 +1,7 @@
+CREATE TABLE Employee (ID AUTOINCREMENT PRIMARY KEY,
+employee_name TEXT (255),
+employee_salary INT,
+employee_tax INT,
+employee_sss INT,
+employee_pagibig INT,
+employee_philhealth INT);
